@@ -1,3 +1,3 @@
 # leet-code
-This is Frist Commit
+This is First Commit
 second
